@@ -1,2 +1,7 @@
+# For Alej
 .venv/
+*.dll
+*.pyd
+
+#Bert files are large
 code/Bert/
